@@ -1,5 +1,9 @@
 # reMarkable cjk font installing script
 
+[en](README_en.md)
+
+-----
+
 reMarkable 2 的內建字體 ( ebgaramond ) 不包含任何 cjk 字元，這個腳本將會安裝一個 cjk 字體到你的 reMarkable。
 
 這個腳本會預設安裝 [霞鶩文楷 TC](https://github.com/lxgw/LxgwWenkaiTC) 到你的 reMarkable。
