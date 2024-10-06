@@ -36,7 +36,13 @@ sudo pacman -S sshpass
 
 或者你使用的其他套件管理器。
 
-從 release 頁面下載腳本，然後執行腳本:
+從 release 頁面下載腳本，新增可執行權限給它：
+
+```bash
+chmod +x install_fonts_to_remarkable.sh
+```
+
+然後執行腳本:
 
 ```bash
 ./install_fonts_to_remarkable.sh

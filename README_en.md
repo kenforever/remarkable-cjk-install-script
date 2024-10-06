@@ -32,7 +32,13 @@ sudo pacman -S sshpass
 
 or other package manager you use.
 
-download the script from the release page, then run the script:
+download the script from the release page, add the executable permission to it:
+
+```bash
+chmod +x install_fonts_to_remarkable.sh
+```
+
+then run the script:
 
 ```bash
 ./install_fonts_to_remarkable.sh
